@@ -1,5 +1,5 @@
 # java-basic-calculator
-Türkçe karakter ile yazıldığı için cmd ile çalışmaz
-Ondalıklı sayı desteklemez 
-String İfade girmeyin
-geliştirme için pull requests atarsınız
+* Türkçe karakter ile yazıldığı için cmd ile çalışmaz <br/>
+* Ondalıklı sayı desteklemez  <br/>
+* String İfade girmeyin <br/>
+* geliştirme için pull requests atarsınız <br/>
